@@ -1,0 +1,26 @@
+.game{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
+button{
+    background-color: green;
+    color: white;
+    border: 0;
+    padding: 12px 34px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btns{
+    display: flex;
+    gap: 34px;
+}
+.choice{
+    font-size: 16px;
+    
+}
+.score{
+    font-size: 20px;
+}
